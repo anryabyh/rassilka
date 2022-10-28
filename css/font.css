@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'TTWalls';
+    src: url('TTWallsRoughBoldDEMO.eot');
+    src: url('TTWallsRoughBoldDEMO.eot?#iefix') format('embedded-opentype'), url('TTWallsRoughBoldDEMO.svg#TTWallsRoughBoldDEMO') format('svg'), url('TTWallsRoughBoldDEMO.ttf') format('truetype'), url('TTWallsRoughBoldDEMO.woff') format('woff'), url('TTWallsRoughBoldDEMO.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Laptev-Brush';
+    src: url('Laptev-Brush.eot');
+    src: url('Laptev-Brush.eot?#iefix') format('embedded-opentype'), url('Laptev-Brush.svg#Laptev-Brush') format('svg'), url('Laptev-Brush.ttf') format('truetype'), url('Laptev-Brush.woff') format('woff'), url('Laptev-Brush.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caveat-Bold';
+    src: url('Caveat-Bold.eot');
+    src: url('Caveat-Bold.eot?#iefix') format('embedded-opentype'), url('Caveat-Bold.svg#Caveat-Bold') format('svg'), url('Caveat-Bold.ttf') format('truetype'), url('Caveat-Bold.woff') format('woff'), url('Caveat-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caveat-Regular';
+    src: url('Caveat-Regular.eot');
+    src: url('Caveat-Regular.eot?#iefix') format('embedded-opentype'), url('Caveat-Regular.svg#Caveat-Regular') format('svg'), url('Caveat-Regular.ttf') format('truetype'), url('Caveat-Regular.woff') format('woff'), url('Caveat-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
